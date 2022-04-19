@@ -24,7 +24,7 @@ node_modules
 .env.production
 .env.local
 ```
-# *some of important docker images file name*
+# *some of important docker commands *
 **#build image from dockerfile**
 ```
 docker build -t ./dockerfile
